@@ -1,25 +1,25 @@
 ---
 name: User Story
-about: Default user story template
+about: Template for creating user stories.
 title: 'USER STORY: <TITLE>'
 labels: ''
 assignees: ''
 
 ---
 
-As a **role** I can **capability** so that **recieved benefit**
+**As a** <role>,  
+**I can** <capability>,  
+**So that** <benefit>.
 
 ---
 
-**Acceptance Criteria**
-
-1.
-2.
-3.
+### Acceptance Criteria
+- [ ] Criterion 1
+- [ ] Criterion 2
 
 ---
 
-**Tasks**
+### Tasks
 
 1.
 2.
